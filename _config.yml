@@ -1,10 +1,10 @@
 title: akycs97
-#subtitle: 
+subtitle: Student of M.Tech(Artificial Intellegence) at IISc.
 name: Akhilesh Yadav
 description: >- # this means to ignore newlines until "baseurl:"
-  #devlopr-jekyll is a Jekyll Theme Built For Developers
+  #Student of M.Tech(Artificial Intellegence) at IISc.
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "akhileshyadav12.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 urls:
@@ -33,11 +33,11 @@ author_location: India
 author_website_url: "akhileshyadav12.github.io"
 
 author_work_experiences:
-            - company_name: ETL_LAB,Lucknow
-              #company_logo: google.png
+            - company_name: ETL_LAB, Lucknow
+              company_logo: etl.png
               company_url: https://etllearninghub.com/
               designation: Intern Data Analytics
-              description: Worked on various IPL Data
+              description: Worked on IPL Data
               visibility: true
             # - company_name: Microsoft
             #   company_logo: microsoft.png
@@ -47,11 +47,23 @@ author_work_experiences:
             #   visibility: true
 
 author_education_details:
-              - college_logo: #mit.png
-                college_name: Indian Institute of Science,Bangaluru,India
+              - college_logo: IIScLogo.png
+                college_name: Indian Institute of Science, Bangaluru
                 college_url: https://iisc.ac.in
-                college_degree: Artificial Intelligence Engineer
+                college_degree: Artificial Intelligence
                 description: Master of Technology
+                visibility: true
+              - college_logo: srmcemlogo.png
+                college_name: Shri Ramswaroop Memorial Group of Professional College, Lucknow
+                college_url: https://srmcem.ac.in
+                college_degree: Computer Science & Engineering
+                description: Batchelor of Technology
+                visibility: true
+              - college_logo: uplogo.jpg
+                college_name: Udai Pratap Inter College,Varanasi
+                college_url: http://www.upcollege.org/
+                college_degree: Intermediate
+                description: Pysics, Chemistry, Math
                 visibility: true
 
 # author_project_details:
@@ -68,7 +80,7 @@ author_education_details:
 
 # social links
 twitter_username: Akhilesh Yadav
-github_username:  Akhilesh Yadav
+github_username:  akhileshyadav12
 facebook_username: Akhilesh Yadav
 linkedin_username: Akhilesh Yadav
 behance_username: Akhilesh Yadav
@@ -134,6 +146,8 @@ paginate_path: "/blog/page/:num/"
 # Shop
 collections:
  - products
+
+#search: false
 
 # Gallery
 defaults:

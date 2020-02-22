@@ -7,7 +7,7 @@ layout: default
         <div class="col-lg-4 offset-md-1">
 
             <div class="card" id="profile-card">
-                <a href="/">
+                <a href="">
                     <img src="/assets/img/{{ site.author_logo }}" class="profile-img">
                 </a>
                 <!--h1 class="profile-name"> {{ site.title }}</h1-->
@@ -133,7 +133,7 @@ layout: default
                 {% if exp.visibility == true %}
                 <div class="row">
                         <div class="col-md-2">
-                            <img src="{{site.url}}{{site.baseurl}}/assets/img/{{ exp.company_logo }}" class="company-logo" />
+                            <img src="{{site.url}}{{site.baseurl}}/assets/img/{{ exp.company_logo }}" style="background-color: black"class="company-logo" />
                         </div>
                         <div class="col-md-6">
                             <h4 class="experience-title"> {{ exp.designation }}</h4>
@@ -157,7 +157,7 @@ layout: default
                 {% if detail.visibility == true %}
                 <div class="row">
                         <div class="col-md-2">
-                            <img src="{{site.url}}{{site.baseurl}}/assets/img/{{ detail.college_logo}}" class="company-logo" />
+                            <img src="{{site.url}}{{site.baseurl}}/assets/img/{{ detail.college_logo}}" style="background-color: white"class="company-logo" />
                         </div>
                         <div class="col-md-6">
                             <h4 class="experience-title"> {{detail.college_degree }}</h4>
