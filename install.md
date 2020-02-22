@@ -11,7 +11,7 @@ This guide is for deploying devlopr-jekyll blog using Github Pages, If you want 
 
 Steps to create your blog using devlopr-jekyll:
 
->  **Step 1.**  Fork the repo - [click here](https://github.com/sujaykundu777/devlopr-jekyll/fork)
+>  **Step 1.**  Fork the repo - [click here](https://github.com/akhileshyadav12/devlopr-jekyll/fork)
 
 
 ![Devlopr Jekyll Repo](/assets/img/posts/fork1.png){:class="img-fluid"}

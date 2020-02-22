@@ -39,7 +39,7 @@ rm -f README.md
 # So we can perform a commit
 git init
 git config user.name "${GITHUB_ACTOR}"
-git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+git config user.email "${GITHUB_ACTOR}@gmail.com"
 git add .
 # That will create a nice commit message with something like:
 # Github Actions - Fri Sep 6 12:32:22 UTC 2019
