@@ -1,7 +1,8 @@
-title: devlopr
-subtitle: A Jekyll Theme Built for Developers
+title: akycs97
+#subtitle: 
+name: Akhilesh Yadav
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a Jekyll Theme Built For Developers
+  #devlopr-jekyll is a Jekyll Theme Built For Developers
 
 url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -13,21 +14,21 @@ urls:
       url: /blog
     - text: Gallery
       url: /gallery
-    - text: Shop
-      url : /shopAbout
+    #- #text: Shop
+      #url : /shopAbout
     - text: Contact Me
       url : /contact
-    - text: Styleguide
-      url: /styleguide
-    - text: Get Started
-      url: /get-started
+    #- text: Styleguide
+      #url: /styleguide
+    #- text: Get Started
+      #url: /get-started
 
 # Edit these details
 
 author_logo: profile.png
-author: Akhilesh Yadv
+author: Akhilesh Yadav
 author_bio: Hello, My Name is Akhilesh Yadav I love to desing robust and scalable code for machine learning.
-author_email: "akhileshy20adav12@gmail.com"
+author_email: "akhilesh20yadav12@gmail.com"
 author_location: India
 author_website_url: "akhileshyadav12.github.io"
 
@@ -66,16 +67,16 @@ author_education_details:
 #                 visibility: true
 
 # social links
-twitter_username: Akhilesh Yadv
-github_username:  Akhilesh Yadv
-facebook_username: Akhilesh Yadv
-linkedin_username: Akhilesh Yadv
-behance_username: Akhilesh Yadv
-instagram_username: Akhilesh Yadv
-medium_username: Akhilesh Yadv
-telegram_username: Akhilesh Yadv
-dribbble_username: Akhilesh Yadv
-flickr_username: Akhilesh Yadv
+twitter_username: Akhilesh Yadav
+github_username:  Akhilesh Yadav
+facebook_username: Akhilesh Yadav
+linkedin_username: Akhilesh Yadav
+behance_username: Akhilesh Yadav
+instagram_username: Akhilesh Yadav
+medium_username: Akhilesh Yadav
+telegram_username: Akhilesh Yadav
+dribbble_username: Akhilesh Yadav
+flickr_username: Akhilesh Yadav
 
 # #for comments using disqus
 # disqus_shortname: sujay-kundu
@@ -83,11 +84,10 @@ flickr_username: Akhilesh Yadv
 # # wakatime username (coding activity)
 # wakatime_username: akhileshyadav12
 
-# # mailchimp embedded form url (newsletter):
-# mailchimp_form_url:
-
+mailchimp embedded form url (newsletter):
+mailchimp_form_url: https://formspree.io/xyyjzdkj
 # formspree (contact form)
-formspree_email: akycs97@gmail.com
+formspree_email: xdozklkk
 
 # syntax highlighter
 markdown: kramdown
