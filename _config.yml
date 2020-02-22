@@ -14,7 +14,7 @@ urls:
     - text: Gallery
       url: /gallery
     - text: Shop
-      url : /shop
+      url : /shopAbout
     - text: Contact Me
       url : /contact
     - text: Styleguide
@@ -26,44 +26,44 @@ urls:
 
 author_logo: profile.png
 author: Akhilesh Yadv
-author_bio: Hello, My Name is John Doe. I love to Code and Design. devlopr-jekyll is a theme built for developers.
+author_bio: Hello, My Name is Akhilesh Yadav I love to desing robust and scalable code for machine learning.
 author_email: "akhileshy20adav12@gmail.com"
 author_location: India
 author_website_url: "akhileshyadav12.github.io"
 
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
+            - company_name: ETL_LAB,Lucknow
+              #company_logo: google.png
+              company_url: https://etllearninghub.com/
+              designation: Intern Data Analytics
+              description: Worked on various IPL Data
               visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
-              visibility: true
+            # - company_name: Microsoft
+            #   company_logo: microsoft.png
+            #   company_url: https://microsoft.com
+            #   designation: Azure Developer
+            #   description: Worked on various Azure Cloud Products
+            #   visibility: true
 
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+              - college_logo: #mit.png
+                college_name: Indian Institute of Science,Bangaluru,India
+                college_url: https://iisc.ac.in
+                college_degree: Artificial Intelligence Engineer
+                description: Master of Technology
                 visibility: true
 
-author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
-                visibility: true
-              - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
-                project_description: A Platform built for Hackers and Penetration Testers
-                project_url: https://hack4r.com
-                visibility: true
+# author_project_details:
+#               - project_thumbnail: gamershub.png
+#                 project_title: Gamers Hub
+#                 project_description: A Platform built for Gamers and Game Devs
+#                 project_url: https://gamershub.in
+#                 visibility: true
+#               - project_thumbnail: hack4r.PNG
+#                 project_title: Hack4r
+#                 project_description: A Platform built for Hackers and Penetration Testers
+#                 project_url: https://hack4r.com
+#                 visibility: true
 
 # social links
 twitter_username: Akhilesh Yadv
@@ -77,17 +77,17 @@ telegram_username: Akhilesh Yadv
 dribbble_username: Akhilesh Yadv
 flickr_username: Akhilesh Yadv
 
-#for comments using disqus
-disqus_shortname: sujay-kundu
+# #for comments using disqus
+# disqus_shortname: sujay-kundu
 
-# wakatime username (coding activity)
-wakatime_username: akhileshyadav12
+# # wakatime username (coding activity)
+# wakatime_username: akhileshyadav12
 
-# mailchimp embedded form url (newsletter):
-mailchimp_form_url:
+# # mailchimp embedded form url (newsletter):
+# mailchimp_form_url:
 
 # formspree (contact form)
-formspree_email: Akhilesh Yadv@gmail.com
+formspree_email: akycs97@gmail.com
 
 # syntax highlighter
 markdown: kramdown

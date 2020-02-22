@@ -1,4 +1,4 @@
-
+<!-- 
 
 ### devlopr-jekyll - A Jekyll Theme Built for Developers
 
@@ -93,4 +93,4 @@ Contributions are more than just welcome. Fork this repo and create a new branch
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
 
-
+ -->
