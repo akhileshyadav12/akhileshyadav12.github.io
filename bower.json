@@ -1,0 +1,22 @@
+{
+  "name": "Akhilesh Yadav",
+  "homepage": "https://github.com/akhileshyadav12/akhileshyadav12.github.io",
+  "authors": [
+    "akhileshyadav12 <akhileshyadav12@gmail.com>"
+  ],
+  "description": "A Jekyll Theme Built For Developers",
+  "main": "",
+  "keywords": [
+    "jekyll-theme",
+    "jekyll",
+    "gallery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
